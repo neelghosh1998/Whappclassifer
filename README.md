@@ -7,3 +7,11 @@ Make sure you put it in one line
 It should be only the text without any sender name and time.
 Run the code.
 python classifier.py --trainfile (name.txt) --testfile(test.txt)
+
+
+
+
+Download the Zip file, unzip it into a folder. Place the classifier.py file in that folder only
+Good luck.
+
+ON my way to increase support for group chats
